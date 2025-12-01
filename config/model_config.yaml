@@ -1,0 +1,60 @@
+# Model Configuration File
+
+satellite_classifier:
+  num_classes: 10
+  pretrained: true
+  dropout_rate: 0.5
+  learning_rate: 0.001
+  batch_size: 32
+  epochs: 50
+  optimizer: adam
+  weight_decay: 0.0001
+
+object_detector:
+  num_classes: 8
+  input_size: 640
+  confidence_threshold: 0.5
+  nms_threshold: 0.4
+  learning_rate: 0.001
+  batch_size: 16
+  epochs: 100
+
+navigation_agent:
+  state_dim: 12
+  action_dim: 6
+  learning_rate: 0.001
+  gamma: 0.99
+  epsilon_start: 1.0
+  epsilon_end: 0.01
+  epsilon_decay: 0.995
+  memory_size: 10000
+  batch_size: 64
+  target_update_freq: 10
+
+galaxy_classifier:
+  num_classes: 5
+  pretrained: true
+  learning_rate: 0.0001
+  batch_size: 32
+  epochs: 50
+
+exoplanet_detector:
+  sequence_length: 2000
+  hidden_dim: 128
+  learning_rate: 0.001
+  batch_size: 64
+  epochs: 100
+
+# Training settings
+training:
+  device: cuda
+  seed: 42
+  log_interval: 10
+  save_interval: 5
+  early_stopping_patience: 10
+
+# Data settings
+data:
+  data_dir: ./data
+  num_workers: 4
+  pin_memory: true
