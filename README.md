@@ -371,20 +371,13 @@ Experience our AI models in action:
 
 ---
 
-## 🏆 Awards & Recognition
 
-- 🥇 **NASA Space Apps Challenge 2023** - Winner
-- 🌟 **GitHub Trending** - Featured Project
-- 📰 **Tech Media Coverage** - Featured in AI Weekly
-- 🎓 **Academic Citations** - Used in 15+ research papers
-
----
 
 ## 📧 Contact & Support
 
 - **Author**: Karim Osman
 - **LinkedIn**: [linkedin.com/in/karimosman89](https://www.linkedin.com/in/karimosman89/)
-- **Email**: karim.osman@example.com
+- **Email**: karim.programmer2020@gmail.com
 - **Project**: [GitHub Repository](https://github.com/karimosman89/AI-for-Space-Exploration-and-Autonomous-Astronomy)
 
 ### Support Options
@@ -392,7 +385,7 @@ Experience our AI models in action:
 - 📖 [Documentation](docs/)
 - 💬 [Discussions](https://github.com/karimosman89/AI-for-Space-Exploration-and-Autonomous-Astronomy/discussions)
 - 🐛 [Issue Tracker](https://github.com/karimosman89/AI-for-Space-Exploration-and-Autonomous-Astronomy/issues)
-- 📧 Email Support: support@space-ai-project.com
+- 📧 Email Support: karim.programmer2020@gmail.com
 
 ---
 
@@ -420,7 +413,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-**Made with ❤️ for the future of space exploration**
+
 
 ⭐ Star this repository if you find it helpful!
 
