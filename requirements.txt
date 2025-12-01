@@ -1,0 +1,121 @@
+# Core Dependencies
+numpy>=1.21.0
+pandas>=1.3.0
+matplotlib>=3.4.0
+seaborn>=0.11.0
+pillow>=9.0.0
+opencv-python>=4.5.0
+scikit-learn>=1.0.0
+scipy>=1.7.0
+
+# Deep Learning
+torch>=2.0.0
+torchvision>=0.15.0
+tensorflow>=2.12.0
+keras>=2.12.0
+transformers>=4.30.0
+
+# Computer Vision
+albumentations>=1.3.0
+timm>=0.9.0
+
+# Astronomical Data
+astropy>=5.0.0
+astroquery>=0.4.6
+photutils>=1.8.0
+
+# Geospatial & Satellite Data
+rasterio>=1.3.0
+gdal>=3.5.0
+geopandas>=0.12.0
+fiona>=1.9.0
+shapely>=2.0.0
+
+# Reinforcement Learning
+gym>=0.26.0
+stable-baselines3>=2.0.0
+tensorboard>=2.12.0
+
+# API & Web
+fastapi>=0.100.0
+uvicorn[standard]>=0.23.0
+pydantic>=2.0.0
+streamlit>=1.25.0
+gradio>=3.40.0
+python-multipart>=0.0.6
+
+# Data Validation & Configuration
+pyyaml>=6.0
+python-dotenv>=1.0.0
+marshmallow>=3.20.0
+
+# Utilities
+tqdm>=4.65.0
+requests>=2.31.0
+aiohttp>=3.8.0
+python-dateutil>=2.8.0
+
+# Testing
+pytest>=7.4.0
+pytest-cov>=4.1.0
+pytest-asyncio>=0.21.0
+hypothesis>=6.82.0
+
+# Code Quality
+black>=23.7.0
+flake8>=6.0.0
+isort>=5.12.0
+mypy>=1.4.0
+pylint>=2.17.0
+
+# Documentation
+sphinx>=7.0.0
+sphinx-rtd-theme>=1.3.0
+mkdocs>=1.5.0
+mkdocs-material>=9.1.0
+
+# Development Tools
+ipython>=8.14.0
+jupyter>=1.0.0
+notebook>=7.0.0
+jupyterlab>=4.0.0
+
+# Model Optimization
+onnx>=1.14.0
+onnxruntime>=1.15.0
+tensorrt>=8.6.0
+
+# Monitoring & Logging
+mlflow>=2.5.0
+wandb>=0.15.0
+loguru>=0.7.0
+
+# Database
+sqlalchemy>=2.0.0
+psycopg2-binary>=2.9.0
+
+# Cloud & Deployment
+boto3>=1.28.0
+google-cloud-storage>=2.10.0
+azure-storage-blob>=12.17.0
+
+# Security
+cryptography>=41.0.0
+pyjwt>=2.8.0
+
+# Image Processing
+scikit-image>=0.21.0
+imageio>=2.31.0
+
+# Visualization
+plotly>=5.15.0
+bokeh>=3.2.0
+folium>=0.14.0
+
+# Time Series
+prophet>=1.1.0
+statsmodels>=0.14.0
+
+# Numerical Optimization
+optuna>=3.3.0
+hyperopt>=0.2.7
